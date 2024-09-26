@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FourScreenApp</string>
+    <string name="title_activity_date_selection">DateSelectionActivity</string>
+    <string name="title_activity_text_input">TextInputActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_summary">SummaryActivity</string>
+</resources>
